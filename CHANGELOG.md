@@ -1,6 +1,16 @@
 # Changelog
 
 ---
+### *Changes up to commit 86a1054 (Fri Aug 15 23:15:11 2025)*
+---
+
+## ✨ Features
+* **(scripts)** add an interactive script for guided commits (86a1054) by Florian
+
+## 📚 Documentation
+* update CHNAGELOG.de (c4b7f70) by Florian
+
+---
 ### *Changes up to commit 3de9654 (Fri Aug 15 22:57:16 2025)*
 ---
 
